@@ -1,0 +1,4 @@
+baseURL = 'https://isolo.dev/'
+languageCode = 'en-us'
+title = 'I, Solo Dev'
+theme = 'ananke'
